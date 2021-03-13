@@ -89,3 +89,5 @@ photos = [
 			}
 		]
 Gallery.create(photos)
+
+# ok
